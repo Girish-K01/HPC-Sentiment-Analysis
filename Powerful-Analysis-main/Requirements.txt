@@ -1,0 +1,5 @@
+gnews
+newspaper3k
+multiprocessing
+kafka-python-ng
+transformers
